@@ -1,4 +1,4 @@
-# 🦀 System Monitor — Rust + React + Tailwind
+# System Monitor — Rust + React + Tailwind
 
 A live system stats dashboard. Rust backend reads CPU, RAM, uptime via `sysinfo` and exposes a JSON API. React frontend polls every 2s and renders animated stat cards.
 
